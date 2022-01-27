@@ -1,0 +1,43 @@
+#a{
+    width: 50px;
+    height: 50px;
+}
+#c{
+    height: 800px;
+    width: 1000px;
+    background-image: url(20220124_112546.jpg);
+    background-repeat: no-repeat;
+    background-size:100% 100%;
+}
+#d{
+    color: white;
+}
+#space{
+    height: 10%;
+}
+#heading{
+    color: white;
+}
+button{
+    background-color:red;
+}
+#second{
+    background-color: gray;
+    height: 800px;
+    width: 1000px;
+}
+#third{
+    height: 500px;
+    width: 1000px;
+    background-image: url(20220124_204647.jpg);
+    background-repeat: no-repeat;
+    background-size:100% 100%;
+}
+#y{
+    width: 50px;
+    height: 50px;
+}
+#aa{
+    height: 150px;
+    width: 150px;
+}
